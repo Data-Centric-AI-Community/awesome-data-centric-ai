@@ -4,11 +4,14 @@
 ![GitHub](https://img.shields.io/badge/License-MIT-lightgrey.svg)
 [![GitHub](https://img.shields.io/twitter/follow/ydata_ai.svg?label=Follow)](https://twitter.com/YData_ai/)
 
-# Awesome Data-Centric AI
+# *Awesome* Data-Centric AI
 
-Data-Centric AI is the approach to AI development that considers the training dataset as the centerpiece of the solution instead of the model. 
+**Data-Centric AI is the approach to AI development that considers the training dataset as the centerpiece of the solution instead of the model.**
 
 This repository contains a curated list of awesome resources such as open-source libraries, tutorials, and articles that will help you understand the concepts, and start your journey on Data-Centric AI development.
+
+We do value open collaboration and knowledge sharing, so we recommend not to limit yourself to this repository alone and check other amazing projects such as [Andrew Ng's Resources Hub](https://datacentricai.org/).
+
 
 For this repository, we focus on three main pillars of Data-Centric AI.
 
@@ -39,4 +42,4 @@ For this repository, we focus on three main pillars of Data-Centric AI.
 
 We are open to collaboration! If you want to start contributing you only need to create a pull request with relevant resources. We would review each and every pull request.
 
-If you found these resources useful, please feel free to check out our [Data-Centric AI Community](https://datacentricai.community) or [click here to join our slack community.](https:/slack.ydata.ai) We hope to say hi on the other side! 
+If you found these resources useful, please feel free to check out our [Data-Centric AI Community](https://datacentricai.community) or [click here to join our slack community.](https://slack.ydata.ai) We hope to say hi on the other side! 
