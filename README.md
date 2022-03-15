@@ -21,6 +21,7 @@ For this repository, we focus on three main pillars of Data-Centric AI.
 - [Great Expectations](https://github.com/great-expectations/great_expectations) - Great Expectations helps data teams eliminate pipeline debt, through data testing, documentation, and profiling.
 - [D-Tale](https://github.com/man-group/dtale) - Is an open-source python auto-visualization library that brings you an easy way to view & analyze Pandas data structures. It integrates seamlessly with ipython notebooks & python/ipython terminals.
 - [Data Profiler](https://github.com/capitalone/DataProfiler) - The DataProfiler is a Python library designed to make data analysis, monitoring, and sensitive data detection easy.
+- [Galileo](https://rungalileo.gitbook.io/galileo/) - Galileo is a data intelligence and profiling tool for NLP. Use Galileo for EDA and to rapidly find and relabel mislabeled samples in your data.
 
 ## Synthetic Data
 - [YData Synthetic](https://github.com/ydataai/ydata-synthetic) - Structured Synthetic Data Generators using Generative Adversarial Networks specifically for tabular and time-series data.
