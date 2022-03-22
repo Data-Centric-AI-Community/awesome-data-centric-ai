@@ -21,6 +21,7 @@ For this repository, we focus on three main pillars of Data-Centric AI.
 - [Great Expectations](https://github.com/great-expectations/great_expectations) - Great Expectations helps data teams eliminate pipeline debt, through data testing, documentation, and profiling.
 - [D-Tale](https://github.com/man-group/dtale) - Is an open-source python auto-visualization library that brings you an easy way to view & analyze Pandas data structures. It integrates seamlessly with ipython notebooks & python/ipython terminals.
 - [Data Profiler](https://github.com/capitalone/DataProfiler) - The DataProfiler is a Python library designed to make data analysis, monitoring, and sensitive data detection easy.
+- [whylogs](https://github.com/whylabs/whylogs) - whylogs is the open source standard for data logging. It uses data profiling techniques to create *whylogs profiles*, which can be used as logs to enable monitoring and observability for data pipelines and ML models
 
 ## Synthetic Data
 - [YData Synthetic](https://github.com/ydataai/ydata-synthetic) - Structured Synthetic Data Generators using Generative Adversarial Networks specifically for tabular and time-series data.
