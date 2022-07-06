@@ -38,6 +38,7 @@ For this repository, we focus on three main pillars of Data-Centric AI.
 - [TagAnamoly](https://github.com/Microsoft/TagAnomaly) - Anomaly detection labeling tool, specifically for multiple time series (one time series per category).
 - [EchoML](https://github.com/ritazh/EchoML) - Play, visualize and annotate your audio files
 - [LabelStudio](https://github.com/heartexlabs/label-studio) - Label Studio is an open-source data labeling tool. It lets you label data types like audio, text, images, videos, and time series with a simple and straightforward UI and export to various model formats.
+- [Awesome Open Source Data Annotation & Labeling Tools](https://github.com/zenml-io/awesome-open-data-annotation) - A list of the open-source tools available (sorted by task type) for anyone who wants to label data. Only actively maintained tools are listed.
 
 ## An Open Invitation
 
