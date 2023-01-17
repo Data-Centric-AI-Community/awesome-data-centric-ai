@@ -46,4 +46,4 @@ For this repository, we focus on three main pillars of Data-Centric AI.
 
 We are open to collaboration! If you want to start contributing you only need to create a pull request with relevant resources. We would review each and every pull request.
 
-If you found these resources useful, please feel free to check out our [Data-Centric AI Community](https://datacentricai.community) or [click here to join our slack community.](https://slack.ydata.ai) We hope to say hi on the other side! 
+If you found these resources useful, please feel free to check out our [Data-Centric AI Community](https://datacentricai.community) or [click here to join our Discord server.](https://discord.gg/mw7xjJ7b7s) We hope to say hi on the other side! 
