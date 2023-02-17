@@ -16,8 +16,11 @@ We do value open collaboration and knowledge sharing, so we recommend not to lim
 For this repository, we focus on three main pillars of Data-Centric AI.
 
 ## Data Profiling
-- [Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling) - Pandas Profiling extends the pandas DataFrame with df.profile_report() for quick data analysis
-- [SweetViz](https://github.com/fbdesignpro/sweetviz) - Sweetviz is an open-source Python library that generates beautiful, high-density visualizations to kickstart EDA (Exploratory Data Analysis) with just two lines of code.
+- [YData Profiling](https://github.com/ydataai/ydata-profiling) - YData Profiling supports both Pandas and Spark DataFrames, providing a fast and straightforward visual  data understanding.
+- [SweetViz](https://github.com/fbdesignpro/sweetviz) - SweetViz is an open-source Python library that generates beautiful, high-density visualizations to kickstart EDA (Exploratory Data Analysis) with just two lines of code.
+- [DataPrep.EDA](https://github.com/sfu-db/dataprep) - DataPrep.EDA  is an EDA (Exploratory Data Analysis) tool in Python that allows you to understand a Pandas/Dask DataFrame with a few lines of code in seconds.
+- [AutoViz](https://github.com/AutoViML/AutoViz) - Automatically Visualize any dataset, any size with a single line of code.
+- [Lux](https://github.com/lux-org/lux) - Lux is a Python library that facilitates fast and easy data exploration by automating the visualization and data analysis process.
 - [Great Expectations](https://github.com/great-expectations/great_expectations) - Great Expectations helps data teams eliminate pipeline debt, through data testing, documentation, and profiling.
 - [D-Tale](https://github.com/man-group/dtale) - Is an open-source python auto-visualization library that brings you an easy way to view & analyze Pandas data structures. It integrates seamlessly with ipython notebooks & python/ipython terminals.
 - [Data Profiler](https://github.com/capitalone/DataProfiler) - The DataProfiler is a Python library designed to make data analysis, monitoring, and sensitive data detection easy.
