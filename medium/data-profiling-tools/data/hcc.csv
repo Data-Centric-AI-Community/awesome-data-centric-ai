@@ -1,0 +1,166 @@
+﻿Gender,Age,Alcohol,Hallmark,PS,Encephalopathy,Hemoglobin,HBeAg,MCV,Total_Bil,O2,Dir_Bil,Ferritin,Outcome
+Male,67,Yes,AYes,Active,None,13.7,No,106.6,2.1,999,0.5,,Alive
+Female,62,No,BYes,Active,None,,No,103.4,,999,,,Alive
+Male,78,Yes,CYes,Ambulatory,None,8.9,No,79.8,0.4,999,0.1,16,Alive
+Male,77,Yes,DYes,Active,None,13.4,No,97.1,0.4,999,0.2,,Dead
+Male,76,Yes,EYes,Active,None,14.3,No,95.1,0.7,999,,22,Alive
+Male,75,Yes,FYes,Restricted,None,13.4,,91.5,3.5,999,1.4,111,Dead
+Male,49,No,GYes,Active,None,10.4,,102,2.72,999,2.19,1452,Dead
+Male,61,Yes,HYes,Selfcare,None,10.8,,92,3.2,999,1.3,706,Dead
+Male,50,Yes,IYes,Restricted,None,11.9,No,107.5,3.3,999,1.2,982,Alive
+Male,43,Yes,JNo,Active,None,11.8,No,87.8,0.5,999,0.7,,Alive
+Male,41,Yes,KYes,Active,None,13,No,94.2,3,999,1.1,,Dead
+Male,74,Yes,LYes,Active,None,15.7,No,96.7,1.3,999,0.3,277,Alive
+Male,66,Yes,MNo,Active,None,13.3,No,90.1,8.5,999,0.8,,Alive
+Male,56,No,NYes,Active,None,13.7,No,93.8,1,999,,,Alive
+Male,63,Yes,OYes,Ambulatory,Grade I/II,13.5,No,93,10.5,999,4.5,302,Alive
+Female,41,Yes,PYes,Restricted,None,10.2,No,89.6,3.1,999,1.3,60,Alive
+Male,72,Yes,QYes,Selfcare,Grade I/II,12.1,No,99.2,9.8,999,2.9,767,Dead
+Male,60,Yes,RYes,Ambulatory,None,10.3,No,103.7,0.5,999,3.8,443,Alive
+Male,64,Yes,SYes,Restricted,None,14.9,No,94.8,0.9,999,0.9,295,Alive
+Male,75,Yes,TYes,Active,None,15.9,No,103.4,3.4,999,1.6,774,Dead
+Male,71,Yes,UNo,Active,None,11.7,No,101,1.7,999,0.7,76.9,Alive
+Male,73,Yes,VNo,Active,None,16.4,No,90.7,1,999,0.2,84,Alive
+Male,66,Yes,WYes,Restricted,None,10.8,No,86.5,1.2,999,0.5,1001,Dead
+Male,64,Yes,XYes,Restricted,None,10.7,No,88.1,3.8,999,1.6,,Dead
+Male,84,Yes,YNo,Disabled,None,13.1,,111,1.3,999,0.7,,Dead
+Male,80,Yes,ZYes,Ambulatory,None,13.7,,94.3,1.6,999,0.7,79,Alive
+Male,45,Yes,AAYes,Restricted,None,13.6,,98.4,1.3,999,0.7,,Dead
+Male,57,Yes,ABYes,Active,None,15.5,No,88.2,3.2,999,1,,Alive
+Male,61,Yes,ACYes,Restricted,None,12.2,No,89.5,1.1,999,0.4,70,Dead
+Male,20,Yes,ADYes,Restricted,None,9.9,,83.4,1.8,999,1.1,369,Alive
+Male,60,Yes,AEYes,Ambulatory,None,13.1,No,87.9,0.7,999,,,Alive
+Male,62,Yes,AFYes,Active,None,12.2,,94,1,999,,239,Alive
+Male,67,Yes,AGYes,Active,None,15.7,,96.1,0.6,999,,,Alive
+Male,77,Yes,AHYes,Active,None,13.7,,97.7,0.5,999,,,Alive
+Male,62,Yes,AINo,Active,None,14.3,No,99.6,1.7,999,0.77,,Alive
+Male,76,No,AJNo,Active,None,14.8,,98.5,0.77,999,0.37,,Alive
+Male,73,Yes,AKYes,Disabled,None,13.1,No,109.3,7.8,999,3.3,870,Dead
+Male,84,Yes,ALYes,Restricted,None,13,No,96.5,1.1,999,0.2,134,Dead
+Male,70,Yes,AMYes,Active,None,14.9,No,105,1.3,999,0.3,,Alive
+Male,59,Yes,ANYes,Active,None,11.3,No,82.2,1.4,999,0.6,,Alive
+Female,71,No,AOYes,Active,None,13.9,No,88.3,0.8,999,0.3,120,Alive
+Male,66,No,APNo,Active,None,15.7,No,92.7,0.7,999,0.3,,Alive
+Female,86,Yes,AQNo,Selfcare,None,15,No,85.5,1,999,0.3,279,Dead
+Male,71,Yes,ARYes,Active,None,15.1,,104.1,2.5,999,0.2,,Alive
+Female,52,No,ASYes,Active,None,15.6,No,98.1,2.2,999,0.5,,Alive
+Male,60,Yes,ATYes,Active,None,16.6,No,93.8,0.9,999,,,Alive
+Female,45,No,AU,Active,None,,No,102.2,,999,,,Alive
+Male,66,Yes,AVNo,Restricted,None,14,No,102.9,6.8,999,4.1,888,Dead
+Male,80,No,AWNo,Active,None,10.6,No,96.2,1,999,,802,Dead
+Male,58,Yes,AXNo,Active,None,15,,96.7,2.1,999,0.4,905,Alive
+Female,27,No,AYYes,Ambulatory,None,10.5,No,78.7,0.3,999,0.3,,Dead
+Female,73,Yes,AZNo,Active,None,12.6,,91.4,2.3,999,0.8,497,Dead
+Male,73,Yes,BANo,Active,None,11.8,No,80.2,0.7,999,,635,Alive
+Male,50,Yes,BBYes,Active,None,15.3,No,93.7,1.4,999,0.3,59,Alive
+Male,51,Yes,BCYes,Selfcare,None,12.4,No,95.1,8.2,999,5.5,742,Dead
+Female,78,No,BDYes,Restricted,None,10.8,,88,0.9,999,,,Dead
+Male,81,Yes,BEYes,Ambulatory,None,7.3,,90.8,0.5,999,,48,Dead
+Male,65,Yes,BFYes,Active,None,10.3,No,83,0.8,999,0.85,18,Alive
+Male,72,Yes,BGYes,Selfcare,Grade I/II,10.9,No,102,4.2,999,1.9,176,Dead
+Male,82,No,BHNo,Active,None,18.7,,92.4,0.9,999,,,Dead
+Male,76,No,BIYes,Restricted,None,12.6,No,100,1.7,999,0.5,,Alive
+Male,56,Yes,BJYes,Active,Grade I/II,14.6,No,100.8,3.7,999,1.9,363,Alive
+Female,68,Yes,BKYes,Ambulatory,None,11.5,No,97.4,4.9,999,2.2,,Alive
+Male,72,Yes,BLYes,Selfcare,None,12.6,No,96.6,2.4,999,0.5,,Alive
+Male,66,No,BMNo,Active,None,12.1,No,95.1,1.4,999,0.5,0,Alive
+Female,40,No,BNNo,Ambulatory,None,15.1,No,86,1.3,999,0.2,,Dead
+Male,68,Yes,BOYes,Active,None,15.6,,93,1.4,999,0.3,393,Alive
+Male,63,Yes,BPYes,Active,None,9.5,No,99.2,1.6,999,0.2,48,Alive
+Male,72,Yes,BQYes,Active,None,12.7,No,100.3,3.9,999,1.2,419,Dead
+Female,88,Yes,BRYes,Ambulatory,Grade I/II,10.9,No,97.3,2.1,999,1.3,639,Dead
+Female,23,No,BSYes,Active,None,12.7,No,74,2.8,999,0.8,20,Alive
+Male,59,Yes,BTYes,Selfcare,Grade I/II,13,No,102.1,1.9,999,1.1,,Alive
+Male,82,Yes,BUNo,Ambulatory,None,14.4,No,101.1,2.3,999,0.8,227,Alive
+Male,67,Yes,BVYes,Active,None,13,No,92,0.6,999,,,Dead
+Male,61,Yes,BWYes,Active,None,14.9,,92.3,1,999,0.3,255,Alive
+Male,61,Yes,BXYes,Active,None,12.1,,119,9.6,999,4.6,960,Dead
+Male,67,Yes,BYNo,Ambulatory,None,9.1,No,103.6,2.2,999,1.2,355,Dead
+Male,78,Yes,BZYes,Active,None,14.4,No,100.2,0.9,999,,,Alive
+Male,52,Yes,CAYes,Selfcare,None,9.8,No,81.8,0.5,999,0.5,141,Alive
+Male,51,Yes,CBNo,Ambulatory,Grade I/II,10.4,No,91.1,16,999,9.6,,Alive
+Male,74,Yes,CCYes,Selfcare,Grade I/II,12.6,,83.7,1.2,999,0.5,,Dead
+Male,56,Yes,CDYes,Restricted,Grade I/II,15.8,,99,4.6,999,1.7,316,Alive
+Male,64,Yes,CENo,Restricted,None,14.8,No,104.3,2.6,999,1.4,859,Alive
+Male,83,Yes,CFYes,Ambulatory,None,12.7,No,106,3.4,999,1.4,221,Dead
+Male,57,No,CGYes,Active,,16.4,No,94.8,1.1,999,0.3,,Alive
+Male,58,Yes,CHYes,Restricted,Grade I/II,13.9,No,100.8,2.9,999,0.7,108,Alive
+Male,71,Yes,CIYes,Restricted,None,12.6,No,83.9,,999,,,Alive
+Male,52,No,CJYes,Active,None,15.8,No,97.9,0.5,999,,30,Alive
+Male,74,Yes,CKYes,Active,None,11.7,No,70.6,2.1,999,0.9,28,Dead
+Male,61,Yes,CLYes,Restricted,Grade I/II,9.5,No,90,1.5,999,1,,Alive
+Male,69,Yes,CMNo,Ambulatory,None,10.1,No,89.5,4.3,999,1,173,Dead
+Male,65,Yes,CN,Active,None,14.6,,95.1,1.3,999,0.3,423,Alive
+Male,79,Yes,COYes,Selfcare,None,11.5,No,95.6,1,999,0.2,,Dead
+Male,69,Yes,CPYes,Restricted,None,13.1,No,90.6,1.9,999,0.6,,Dead
+Male,87,Yes,CQYes,Active,None,12.6,No,97.6,0.8,999,,278,Alive
+Male,78,No,CRNo,Restricted,None,9.5,No,85.8,0.6,999,,810,Dead
+Male,71,Yes,CSYes,Restricted,None,9.1,No,90.9,,999,,,Alive
+Male,58,Yes,CTYes,Active,None,14.1,No,103.6,3.3,999,1.1,,Alive
+Male,73,Yes,CUNo,Active,None,13.1,,89.6,0.8,999,,29,Alive
+Male,73,Yes,CVYes,Ambulatory,None,13,,102.3,9.5,999,5.5,,Alive
+Male,93,Yes,CWNo,Ambulatory,None,12,,94.4,3.5,999,1.5,256,Alive
+Male,52,No,CXYes,Restricted,None,13.5,No,98,28.9,999,19.5,749,Dead
+Male,64,Yes,CYYes,Ambulatory,None,13.9,No,99.7,0.8,999,,489,Alive
+Male,63,No,CZNo,Disabled,Grade III/IV,13.5,,93.3,40.5,999,29.3,,Dead
+Male,64,No,DANo,Restricted,None,12.6,No,93.8,1,999,,81,Alive
+Male,67,Yes,DBYes,Selfcare,None,14.3,No,101.5,1.2,999,0.3,48.9,Alive
+Male,50,Yes,DCYes,Active,None,14,No,90.1,0.4,999,,2230,Alive
+Male,79,Yes,DDYes,Selfcare,None,5,No,69.5,0.5,999,,490,Dead
+Male,85,Yes,DEYes,Restricted,None,11.3,No,103.9,1.7,999,0.5,1316,Dead
+Female,62,Yes,DFNo,Active,None,12.1,No,89.7,1.4,999,0.7,,Alive
+Male,74,Yes,DGYes,Ambulatory,Grade I/II,14.9,No,104.5,4.8,999,1.8,297,Alive
+Male,56,Yes,DHYes,Ambulatory,None,11.1,No,105.5,32.3,999,22.1,,Dead
+Male,74,Yes,DIYes,Active,None,15.3,No,90.9,1.7,999,0.3,,Alive
+Male,62,No,DJNo,Restricted,None,16.2,No,99.1,1.3,999,0.3,,Alive
+Male,60,Yes,DKYes,Selfcare,Grade III/IV,10.3,No,94.7,5.7,999,1.9,56,Dead
+Male,55,Yes,DLNo,Active,None,14,,88.2,0.8,999,0.3,,Alive
+Male,57,Yes,DMNo,Active,None,13.8,No,93.2,0.7,999,,,Dead
+Male,63,Yes,DNNo,Disabled,Grade III/IV,12,No,111.4,19,999,9.7,2165,Dead
+Male,63,Yes,DONo,Active,None,14.6,No,96.1,7.9,999,,,Alive
+Male,79,Yes,DPNo,Active,None,14.9,No,103.8,1.4,999,1,,Alive
+Male,63,No,DQNo,Restricted,None,10.2,No,96.1,4.9,999,2.8,,Alive
+Male,59,Yes,DRYes,Active,None,10.8,No,102.8,1.1,999,0.4,856,Dead
+Male,51,Yes,DSNo,Ambulatory,None,9.8,No,85.6,2.6,999,1.5,57,Dead
+Male,74,No,DTYes,Active,None,15.1,No,83.8,0.5,999,,90,Alive
+Male,62,Yes,DUNo,Ambulatory,None,11.8,No,89.2,0.8,999,,579,Dead
+Male,76,Yes,DVYes,Disabled,Grade I/II,14.3,No,89.5,1.5,999,0.5,832,Dead
+Male,73,No,DWYes,Active,None,15.6,No,88.4,2.4,999,0.7,,Alive
+Male,76,Yes,DXYes,Selfcare,Grade I/II,12.3,No,104.2,2.8,999,1,307,Alive
+Male,72,No,DYNo,Ambulatory,None,12.6,No,95.1,0.7,999,,308,Dead
+Female,77,Yes,DZYes,Ambulatory,Grade I/II,11.6,,83.5,0.9,999,,,Dead
+Female,75,No,EANo,Ambulatory,None,14.9,,87.4,0.6,999,0.3,,Alive
+Female,55,Yes,EBYes,Ambulatory,Grade I/II,11.3,,119.6,8.6,999,3.8,,Alive
+Female,72,No,ECNo,Active,None,10.9,No,99.6,1.3,999,0.7,,Dead
+Female,82,No,EDYes,Restricted,None,11.4,,89.3,0.8,999,,149,Dead
+Female,46,No,EEYes,Active,None,14.2,,90.3,0.32,999,0.12,,Alive
+Female,71,No,EFYes,Restricted,None,13.3,No,96.4,0.6,999,,,Alive
+Female,56,No,EGYes,Ambulatory,None,15.4,No,91.6,1.3,999,0.6,,Alive
+Female,78,No,EHYes,Active,Grade I/II,13.2,No,89.5,0.8,999,,80,Alive
+Female,55,No,EIYes,Active,None,13.6,No,97.3,0.9,999,,220,Alive
+Female,76,Yes,EJYes,Ambulatory,None,14.7,No,102.3,0.5,999,0.4,,Alive
+Female,43,No,EKNo,Active,None,12.2,,87.6,0.5,999,,206,Dead
+Male,71,No,ELNo,Active,None,13.3,No,89.7,1,999,,,Dead
+Male,67,Yes,EMNo,Active,None,16,No,98.8,1.4,999,0.3,,Alive
+Male,67,Yes,ENNo,Active,None,11.2,No,102.4,3.7,999,1.1,344,Alive
+Male,51,Yes,EOYes,Active,None,14.9,No,106.3,1.5,999,0.4,642,Alive
+Male,80,Yes,EPNo,Active,None,9.2,No,94,0.76,999,0.33,,Alive
+Male,79,Yes,EQNo,Ambulatory,None,14.3,No,72.2,1.6,999,0.6,14,Dead
+Male,75,Yes,ERYes,Active,None,11.1,,106.9,2.6,999,1,,Alive
+Female,81,No,ESNo,Active,None,13.3,,94.3,1.2,999,0.3,,Alive
+Female,25,No,ETNo,Ambulatory,None,,No,90.2,,999,,,Alive
+Male,36,No,EUNo,Active,None,16.1,No,92,0.7,999,0.2,,Alive
+Female,69,Yes,EVYes,Active,None,13.5,No,104.9,1,999,0.4,,Alive
+Male,47,Yes,EWYes,Restricted,None,11.1,No,93.9,1,999,,,Alive
+Male,87,Yes,EXYes,Selfcare,None,9.7,,91.6,2.4,999,1.3,,Dead
+Female,36,No,EYNo,Active,None,11.7,No,99.7,3,999,1,,Alive
+Male,64,Yes,EZYes,Selfcare,Grade I/II,12.8,No,101.6,5.8,999,2.9,1600,Dead
+Male,49,Yes,FANo,Restricted,None,15.3,No,103,1.2,999,0.6,1176,Dead
+Male,62,Yes,FBYes,Active,None,14.7,No,97.2,1.3,999,0.3,,Alive
+Male,71,No,FCYes,Selfcare,None,8.2,No,94.2,0.3,999,,,Alive
+Male,64,Yes,FDYes,Selfcare,Grade III/IV,7.9,No,111.2,1.9,999,0.7,283,Dead
+Female,40,Yes,FENo,Active,None,15.4,,109.2,0.5,999,,,Alive
+Female,68,No,FFYes,Ambulatory,None,12.1,,88.9,3.6,999,2.3,,Dead
+Male,65,Yes,FGYes,Active,None,13.3,No,90,0.6,999,,,Alive
+Male,44,Yes,FHYes,Ambulatory,None,15.6,No,117.3,1.1,999,,,Dead
+Male,52,Yes,FIYes,Active,None,12.7,No,95.8,28.5,999,19.8,,Dead
