@@ -13,9 +13,8 @@ This repository contains a curated list of awesome resources such as open-source
 We do value open collaboration and knowledge sharing, so we recommend not to limit yourself to this repository alone and check other amazing projects such as [Andrew Ng's Resources Hub](https://datacentricai.org/).
 
 
-For this repository, we focus on three main pillars of Data-Centric AI.
+## 📊 Data Profiling
 
-## Data Profiling
 - [YData Profiling](https://github.com/ydataai/ydata-profiling) - YData Profiling supports both Pandas and Spark DataFrames, providing a fast and straightforward visual  data understanding.
 - [SweetViz](https://github.com/fbdesignpro/sweetviz) - SweetViz is an open-source Python library that generates beautiful, high-density visualizations to kickstart EDA (Exploratory Data Analysis) with just two lines of code.
 - [DataPrep.EDA](https://github.com/sfu-db/dataprep) - DataPrep.EDA  is an EDA (Exploratory Data Analysis) tool in Python that allows you to understand a Pandas/Dask DataFrame with a few lines of code in seconds.
@@ -26,7 +25,8 @@ For this repository, we focus on three main pillars of Data-Centric AI.
 - [Data Profiler](https://github.com/capitalone/DataProfiler) - The DataProfiler is a Python library designed to make data analysis, monitoring, and sensitive data detection easy.
 - [whylogs](https://github.com/whylabs/whylogs) - whylogs is the open source standard for data logging. It uses data profiling techniques to create *whylogs profiles*, which can be used as logs to enable monitoring and observability for data pipelines and ML models
 
-## Synthetic Data
+## 🔐 Synthetic Data
+
 - [YData Synthetic](https://github.com/ydataai/ydata-synthetic) - Structured Synthetic Data Generators using Generative Adversarial Networks specifically for tabular and time-series data.
 - [Synthpop](https://cran.r-project.org/web/packages/synthpop/index.html)  - A tool for producing synthetic versions of microdata containing confidential information so that they are safe to be released to users for exploratory analysis.
 - [DataSynthesizer](https://github.com/DataResponsibly/DataSynthesizer) - DataSynthesizer generates synthetic data that simulates a given dataset. It applies Differential Privacy techniques to achieve a strong privacy guarantee.
@@ -36,7 +36,7 @@ For this repository, we focus on three main pillars of Data-Centric AI.
 - [Time-Series-Generator](https://github.com/Nike-Inc/timeseries-generator) - Time-Series-Generator allows developers to create synthetic timeseries datasets in a generic way that follows different trends.The goal here is to have non-sensitive data available to demo solutions and test the effectiveness of those solutions and/or algorithms.
 - [Zpy](https://github.com/ZumoLabs/zpy/) -  Zpy solves the problem of lack of business specific datasets for computer vision based applications. Zpy uses Python and Blender (an open source 3D graphics toolset) to create synthetic datasets suitable for unique business cases.
 
-## Data Labelling
+## 🏷 Data Labelling
 
 - [LabelImg](https://github.com/tzutalin/labelImg) - LabelImg is a graphical image annotation tool. It is written in Python and uses Qt for its graphical interface.
 - [LabelMe](https://github.com/wkentaro/labelme) - LabelMe is an image polygonal annotation tool that uses Python and Qt.
@@ -45,8 +45,12 @@ For this repository, we focus on three main pillars of Data-Centric AI.
 - [LabelStudio](https://github.com/heartexlabs/label-studio) - Label Studio is an open-source data labeling tool. It lets you label data types like audio, text, images, videos, and time series with a simple and straightforward UI and export to various model formats.
 - [Awesome Open Source Data Annotation & Labeling Tools](https://github.com/zenml-io/awesome-open-data-annotation) - A list of the open-source tools available (sorted by task type) for anyone who wants to label data. Only actively maintained tools are listed.
 
-## An Open Invitation
 
+## 📚 Tutorials and Resources
+Here you may find a list of hands-on tutorials and other materials we use on our [website](https://datacentricai.community) and [Medium](https://medium.com/data-centric-ai-community) blogs here: [Tutorials and Resources](https://github.com/Data-Centric-AI-Community/awesome-data-centric-ai/tree/master/medium).
+
+
+## 👾 An Open Invitation
 We are open to collaboration! If you want to start contributing you only need to create a pull request with relevant resources. We would review each and every pull request.
 
 If you found these resources useful, please feel free to check out our [Data-Centric AI Community](https://datacentricai.community) or [click here to join our Discord server.](https://discord.gg/mw7xjJ7b7s) We hope to say hi on the other side! 
