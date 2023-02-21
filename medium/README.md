@@ -19,7 +19,7 @@
 </a>
 
 # The *Data-Centric AI Community* Blog
-This repository contains a curated list hands-on tutorials and materials that will guide through your data-centric journey, focusing on achieving high-quality data to feed your machine learning models.
+This repository contains a curated list of hands-on tutorials and materials that will guide you through your data-centric journey, focusing on achieving high-quality data to feed your machine learning models.
 
 
 
