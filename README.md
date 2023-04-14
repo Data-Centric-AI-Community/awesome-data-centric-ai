@@ -53,6 +53,10 @@ We do value open collaboration and knowledge sharing, so we recommend not to lim
 Here you may find a list of hands-on tutorials and other materials we use on our [website](https://datacentricai.community) and [Medium](https://medium.com/data-centric-ai-community) blogs here: [Tutorials and Resources](https://github.com/Data-Centric-AI-Community/awesome-data-centric-ai/tree/master/medium).
 
 
+## 🎓 Courses
+
+- [MIT Introduction to Data-Centric AI](https://dcai.csail.mit.edu/) - This class covers algorithms to find and fix common issues in ML data and to construct better datasets, concentrating on data used in supervised learning tasks like classification. All material taught in this course is highly practical, focused on impactful aspects of real-world ML applications, rather than mathematical details of how particular models work. You can take this course to learn practical techniques not covered in most ML classes, which will help mitigate the “garbage in, garbage out” problem that plagues many real-world ML applications. [Website](https://dcai.csail.mit.edu/) | [Lecture Videos](https://www.youtube.com/watch?v=ayzOzZGHZy4&list=PLnSYPjg2dHQKdig0vVbN-ZnEU0yNJ1mo5) | [Lab Assignments](https://github.com/dcai-course/dcai-lab)
+
 ## 👾 An Open Invitation
 We are open to collaboration! If you want to start contributing you only need to create a pull request with relevant resources. We would review each and every pull request.
 
