@@ -51,6 +51,7 @@ We do value open collaboration and knowledge sharing, so we recommend not to lim
 
 ## 🛠️ Data Preparation
 - [DataFix](https://github.com/AI-sandbox/DataFix) - DataFix is a Python tool for detecting and correcting distribution shifts between a reference and a query dataset. It detects shifts, localizes the specific features responsible for the shift, and corrects them efficiently.
+- [DataFlow](https://github.com/OpenDCAI/DataFlow) - LLM-ready data preparation system for turning raw PDFs, conversations, code, and databases into SFT, QA, and RAG-ready datasets.
 
 ## 📚 Tutorials and Resources
 Here you may find a list of hands-on tutorials and other materials we use on our [website](https://datacentricai.community) and [Medium](https://medium.com/data-centric-ai-community) blogs here: [Tutorials and Resources](https://github.com/Data-Centric-AI-Community/awesome-data-centric-ai/tree/master/medium).
