@@ -54,7 +54,7 @@ We do value open collaboration and knowledge sharing, so we recommend not to lim
 - [DataFlow](https://github.com/OpenDCAI/DataFlow) - LLM-ready data preparation system for turning raw PDFs, conversations, code, and databases into SFT, QA, and RAG-ready datasets.
 
 ## 📚 Tutorials and Resources
-Here you may find a list of hands-on tutorials and other materials we use on our [website](https://datacentricai.community) and [Medium](https://medium.com/data-centric-ai-community) blogs here: [Tutorials and Resources](https://github.com/Data-Centric-AI-Community/awesome-data-centric-ai/tree/master/medium).
+Here you may find a list of hands-on tutorials and other materials we use on our [Medium](https://medium.com/data-centric-ai-community) blogs here: [Tutorials and Resources](https://github.com/Data-Centric-AI-Community/awesome-data-centric-ai/tree/master/medium).
 
 - [Data-centric Artificial Intelligence: A Survey](https://arxiv.org/abs/2303.10158) - This survey is to help readers efficiently grasp a broad
 picture of data-centric AI. It covers various aspects such as the needs, definitions, and challenges of data-centric AI, as well as techniques for training data development, inference data development, and data maintenance. Additionally, the survey organizes existing literature from the perspectives of automation and collaboration, tabulating and analyzing benchmarks for achieving data excellence. There is also a [short version](https://arxiv.org/abs/2301.04819).
@@ -67,7 +67,7 @@ picture of data-centric AI. It covers various aspects such as the needs, definit
 ## 👾 An Open Invitation
 We are open to collaboration! If you want to start contributing you only need to create a pull request with relevant resources. We would review each and every pull request.
 
-If you found these resources useful, please feel free to check out our [Data-Centric AI Community](https://datacentricai.community) or [click here to join our Discord server.](https://discord.gg/mw7xjJ7b7s) We hope to say hi on the other side! 
+If you found these resources useful, please feel free to check out our [Discord server.](https://discord.gg/mw7xjJ7b7s) We hope to say hi on the other side! 
 
 
 ## Benchmarks
