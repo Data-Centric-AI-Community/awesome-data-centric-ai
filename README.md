@@ -2,7 +2,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/data-centric-ai-community)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@datacentricai)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/EthicalML/awesome-production-machine-learning/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/Data-Centric-AI-Community/awesome-data-centric-ai/graphs/commit-activity)
 ![GitHub](https://img.shields.io/badge/Languages-MULTI-blue.svg)
 ![GitHub](https://img.shields.io/badge/License-MIT-lightgrey.svg)
 [![GitHub](https://img.shields.io/twitter/follow/ydata_ai.svg?label=Follow)](https://twitter.com/YData_ai/)
@@ -34,7 +34,7 @@ We do value open collaboration and knowledge sharing, so we recommend not to lim
 - [Synthpop](https://cran.r-project.org/web/packages/synthpop/index.html)  - A tool for producing synthetic versions of microdata containing confidential information so that they are safe to be released to users for exploratory analysis.
 - [DataSynthesizer](https://github.com/DataResponsibly/DataSynthesizer) - DataSynthesizer generates synthetic data that simulates a given dataset. It applies Differential Privacy techniques to achieve a strong privacy guarantee.
 - [SDV](https://github.com/sdv-dev/SDV) - The Synthetic Data Vault (SDV) is a Synthetic Data Generation ecosystem of libraries that allows users to easily learn single-table, multi-table, and time-series datasets to, later on, generate new Synthetic Data that has the same format and statistical properties as the original dataset.
-- [Pomegranate](https://github.com/jmschrei/pomegranate) - Pomegranate is a package for building probabilistic models in Python that is implemented in Cython for speed. Most of these models can sample data. 
+- [Pomegranate](https://github.com/jmschrei/pomegranate) - Pomegranate is a package for building probabilistic models in Python that uses PyTorch as its computational backend. Most of these models can sample data. 
 - [Gretel Synthetics](https://github.com/gretelai/gretel-synthetics) - Gretel Synthetics package allows developers to quickly get immersed with synthetic data generation through the use of neural networks.
 - [Time-Series-Generator](https://github.com/Nike-Inc/timeseries-generator) - Time-Series-Generator allows developers to create synthetic timeseries datasets in a generic way that follows different trends.The goal here is to have non-sensitive data available to demo solutions and test the effectiveness of those solutions and/or algorithms.
 - [Zpy](https://github.com/ZumoLabs/zpy/) -  Zpy solves the problem of lack of business specific datasets for computer vision based applications. Zpy uses Python and Blender (an open source 3D graphics toolset) to create synthetic datasets suitable for unique business cases.
